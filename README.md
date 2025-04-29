@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias que trabalho
+## 🛠️ Tecnologias que utilizo
 
 ### 💻 Linguagens & Frameworks
 
