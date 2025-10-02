@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou a Beatriz Souza 👩‍💻</h1>
+# Olá! Eu sou a Beatriz Souza 👩‍💻
 
 <p align="center">
 🌟 Apaixonada por tecnologia, desenvolvimento web e soluções criativas.<br>
@@ -29,22 +29,14 @@
 ## 🕹️ Gráfico de contribuições estilo Pac-Man
 
 <p align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" width="500" alt="Pac-Man contribution graph" />
-</p>
-
----
-
-## 🎧 O que estou ouvindo no Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bqtf3urq5akmbw5s6z6tq6xqwm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" width="350"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzabweatriz&theme=react-dark&area=true" width="500" alt="Contribution graph" />
 </p>
 
 ---
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souzabweatriz)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.b.oliveira56@aluno.senai.br)
 
 ---
