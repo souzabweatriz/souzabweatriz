@@ -26,7 +26,7 @@
 
 ---
 
-## 🕹️ Gráfico de contribuições estilo Pac-Man
+## 🕹️ Gráfico de contribuições 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzabweatriz&theme=react-dark&area=true" width="500" alt="Contribution graph" />
@@ -45,3 +45,4 @@
   ⭐ Obrigada por visitar meu perfil!<br>
   Se curtir algum projeto, deixa uma estrela. Vamos construir juntas? 🚀
 </p>
+
