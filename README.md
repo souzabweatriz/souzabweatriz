@@ -29,7 +29,15 @@
 ## 🕹️ Gráfico de contribuições estilo Pac-Man
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZ2bWQwOHluNG0anl6Y283amF3amF3bGN0MnVlcDc4bTg0dDc4MnlcM2RuZXBsdG4yMVpnYjVvYi9naXBoeS5naWY.gif" width="300" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" width="500" alt="Pac-Man contribution graph" />
+</p>
+
+---
+
+## 🎧 O que estou ouvindo no Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bqtf3urq5akmbw5s6z6tq6xqwm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" width="350"/>
 </p>
 
 ---
