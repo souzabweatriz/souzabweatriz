@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub  
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzabweatriz&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzabweatriz&layout=compact&theme=radical&langs_count=8&cache_seconds=86400"/>
-</div>
-
-
----
-
 ## 📈 Atividade recente  
 
 <p align="center">
@@ -62,4 +52,5 @@
 Se algum projeto te interessar, deixa uma estrela 😉<br>
 🚀 Vamos construir algo incrível juntas!
 </p>
+
 
