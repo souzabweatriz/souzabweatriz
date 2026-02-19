@@ -40,7 +40,7 @@
 ## 📫 Contato  
 
 💼 LinkedIn:  
-👉 https://www.linkedin.com/in/souzabweatriz  
+👉 [https://www.linkedin.com/in/souzabweatriz  ](https://www.linkedin.com/in/ana-beatriz-de-souza-745b222b1/)
 
 📧 Email:  
 👉 ana.b.oliveira56@aluno.senai.br  
@@ -52,5 +52,6 @@
 Se algum projeto te interessar, deixa uma estrela 😉<br>
 🚀 Vamos construir algo incrível juntas!
 </p>
+
 
 
