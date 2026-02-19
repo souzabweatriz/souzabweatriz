@@ -1,23 +1,35 @@
-# Olá! Eu sou a Beatriz Souza 👩‍💻
+# 👩‍💻 Olá! Eu sou a Beatriz Souza  
 
 <p align="center">
 🌟 Apaixonada por tecnologia, desenvolvimento web e soluções criativas.<br>
-🎯 Sempre em busca de novos desafios, crescimento e evolução constante!<br>
+🎯 Sempre buscando evolução, novos desafios e crescimento contínuo.<br>
 💻 Desenvolvedora focada em soluções modernas com JavaScript, React e Next.js.
 </p>
 
 ---
 
-## 🛠️ Tecnologias que trabalho
+## 🚀 Sobre mim  
+
+✨ Desenvolvedora web apaixonada por criar interfaces modernas, funcionais e intuitivas.  
+📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento.  
+🤝 Gosto de colaborar em projetos e trocar conhecimento com a comunidade tech.  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+
+<p align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+</p>
+
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub  
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzabweatriz&show_icons=true&theme=radical&hide=issues" />
@@ -26,7 +38,7 @@
 
 ---
 
-## 🕹️ Gráfico de contribuições 
+## 📈 Atividade recente  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzabweatriz&theme=react-dark&area=true" width="500" alt="Contribution graph" />
@@ -34,15 +46,18 @@
 
 ---
 
-## 📫 Entre em contato
+## 📫 Contato  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souzabweatriz)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ana.b.oliveira56@aluno.senai.br)
+💼 LinkedIn:  
+👉 https://www.linkedin.com/in/souzabweatriz  
+
+📧 Email:  
+👉 ana.b.oliveira56@aluno.senai.br  
 
 ---
 
 <p align="center">
-  ⭐ Obrigada por visitar meu perfil!<br>
-  Se curtir algum projeto, deixa uma estrela. Vamos construir juntas? 🚀
+⭐ Obrigada por visitar meu perfil!<br>
+Se algum projeto te interessar, deixa uma estrela 😉<br>
+🚀 Vamos construir algo incrível juntas!
 </p>
-
