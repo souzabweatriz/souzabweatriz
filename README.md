@@ -43,7 +43,7 @@
 👉 [https://www.linkedin.com/in/souzabweatriz  ](https://www.linkedin.com/in/ana-beatriz-de-souza-745b222b1/)
 
 📧 Email:  
-👉 ana.b.oliveira56@aluno.senai.br  
+👉 ab291012@gmail.com
 
 ---
 
