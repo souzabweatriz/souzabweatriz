@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Dev+em+forma%C3%A7%C3%A3o;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+Vue;%E2%98%95+Java+%7C+Node.js+%7C+Python;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%7C+MySQL;%F0%9F%9A%80+Sempre+evoluindo,+sempre+aprendendo!" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Dev+em+forma%C3%A7%C3%A3o;%E2%9A%9B%EF%B8%8F+React+%7C+Next.js+%7C+Vue+%7C+Vite;%E2%98%95+Java+%7C+Node.js+%7C+Python;%F0%9F%97%84%EF%B8%8F+PostgreSQL+%7C+MySQL;%F0%9F%9A%80+Sempre+evoluindo,+sempre+aprendendo!" alt="Typing" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ const beatriz = {
   nome: "Beatriz Souza",
   funcao: "Dev em formação",
   foco: ["Aprender todos os dias", "Experiência do usuário", "Código limpo"],
-  stackFavorita: ["JavaScript", "React", "Next.js", "Vue"],
+  stackFavorita: ["JavaScript", "React", "Next.js", "Vue", "Vite"],
   backend: ["Java", "Node.js", "Python", "PostgreSQL", "MySQL"],
   aprendendo: "Novas tecnologias e boas práticas todos os dias 📚",
   gosto: "Colaborar, trocar conhecimento e criar coisas bonitas 🤝",
@@ -43,7 +43,7 @@ const beatriz = {
 <div align="center">
 
 ### 🎨 Front-end
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vue,vite&theme=dark" alt="Front-end" />
 
 ### ⚙️ Back-end
 <img src="https://skillicons.dev/icons?i=java,nodejs,python&theme=dark" alt="Back-end" />
