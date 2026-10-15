@@ -52,7 +52,7 @@ const beatriz = {
 <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Banco de dados" />
 
 ### 🧰 Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" alt="Ferramentas" />
 
 </div>
 
