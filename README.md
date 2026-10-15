@@ -73,13 +73,15 @@ const beatriz = {
 <br>
 
 <!-- ░░░░░░░░░░░░░░░ ATIVIDADE ░░░░░░░░░░░░░░░ -->
-<h2 align="center">📈 Atividade recente 📈</h2>
+<h2 align="center">🟡 Atividade recente 🟡</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souzabweatriz&bg_color=0D1117&color=60A5FA&line=3B82F6&point=ffffff&area=true&area_color=1E3A8A&hide_border=true" width="100%" alt="Atividade" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souzabweatriz/souzabweatriz/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souzabweatriz/souzabweatriz/output/pacman-contribution-graph.svg">
+    <img alt="Pacman comendo meus commits" src="https://raw.githubusercontent.com/souzabweatriz/souzabweatriz/output/pacman-contribution-graph.svg" />
+  </picture>
 </p>
-
-<br>
 
 <!-- ░░░░░░░░░░░░░░░ EXTRAS ░░░░░░░░░░░░░░░ -->
 <details>
