@@ -125,7 +125,7 @@ const beatriz = {
 <p align="center">
   ⭐ Obrigada por visitar meu perfil!<br>
   Se algum projeto te interessar, deixa uma estrela 😉<br>
-  <b>Vamos construir algo incrível juntas! 🚀</b>
+  <b>Vamos construir algo incrível juntos! 🚀</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:3B82F6,100:1E3A8A&height=140&section=footer" width="100%" alt="Footer" />
